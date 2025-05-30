@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: aiq_simple
-Version: 1.2.0.dev12+gfd9316a.d20250529
+Version: 0.1.dev4+g0b00bdc
 Summary: Simple AIQ toolkit example
 Keywords: ai,rag,agents
 Classifier: Programming Language :: Python

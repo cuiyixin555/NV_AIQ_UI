@@ -6,6 +6,11 @@ src/aiq/test/functions.py
 src/aiq/test/memory.py
 src/aiq/test/plugin.py
 src/aiq/test/register.py
+src/aiq/test/__pycache__/__init__.cpython-311.pyc
+src/aiq/test/__pycache__/embedder.cpython-311.pyc
+src/aiq/test/__pycache__/functions.cpython-311.pyc
+src/aiq/test/__pycache__/memory.cpython-311.pyc
+src/aiq/test/__pycache__/register.cpython-311.pyc
 src/aiqtoolkit_test.egg-info/PKG-INFO
 src/aiqtoolkit_test.egg-info/SOURCES.txt
 src/aiqtoolkit_test.egg-info/dependency_links.txt

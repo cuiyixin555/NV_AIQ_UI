@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: aiqtoolkit-weave
-Version: 1.2.0.dev12+gfd9316a
+Version: 0.1.dev4+g0b00bdc
 Summary: Subpackage for Weave integration in AIQtoolkit
 Keywords: ai,observability,wandb
 Classifier: Programming Language :: Python

@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: aiqtoolkit-crewai
-Version: 1.2.0.dev12+gfd9316a
+Version: 0.1.dev4+g0b00bdc
 Summary: Subpackage for CrewAI integration in AIQtoolkit
 Keywords: ai,rag,agents
 Classifier: Programming Language :: Python
