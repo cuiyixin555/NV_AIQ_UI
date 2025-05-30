@@ -65,9 +65,12 @@ This is UI for AIQToolkit from Nvidia
     ```bash
     python open_index.py
     ```
+    ![Image text](https://github.com/cuiyixin555/NV_AIQ_UI/blob/master/index.png)
 
 2. Input the question you want
    ```bash
    you can input like the picture and click the button Chat with AgentIQ
+   ```
+   ![Image text](https://github.com/cuiyixin555/NV_AIQ_UI/blob/master/chat.png)
 
 
