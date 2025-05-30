@@ -53,5 +53,10 @@ This is UI for AIQToolkit from Nvidia
 
    This should output the AIQ toolkit version which is currently installed.
 
+7. For running UI, please install PyQt5
+
+   ```bash
+   pip install PyQt5
+   ```
 
 
