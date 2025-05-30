@@ -59,4 +59,15 @@ This is UI for AIQToolkit from Nvidia
    pip install PyQt5
    ```
 
+### UI: QQ chat with Nvidia AgentIQ
+
+1. Execute UI script.
+    ```bash
+    python open_index.py
+    ```
+
+2. Input the question you want
+   ```bash
+   you can input like the picture and click the button Chat with AgentIQ
+
 
